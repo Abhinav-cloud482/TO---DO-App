@@ -83,3 +83,8 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 This project is open-source and available under the MIT License.
 
 ## Author
+Abhinav Dixit
+
+Python Developer | Data & ML Enthusiast
+
+ - Feel free to fork, star, or contribute to this project!
